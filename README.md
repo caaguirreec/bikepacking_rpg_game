@@ -42,7 +42,7 @@ Additional notes on how to deploy this on a live or release system. Explaining t
 
 ### Branches
 
-* main:
+* master:
 * dev:
 
 
